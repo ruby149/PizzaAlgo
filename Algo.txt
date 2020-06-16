@@ -1,0 +1,6 @@
+Decide which business to order from
+Decide which type of pizza to order 
+tell the cashier person
+pay 
+wait 
+pizza ready
