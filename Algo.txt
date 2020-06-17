@@ -7,3 +7,4 @@ pay
     3a let cashier person know
 wait 
 pizza ready
+love it
