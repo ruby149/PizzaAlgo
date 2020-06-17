@@ -2,5 +2,8 @@ Decide which business to order from
 Decide which type of pizza to order 
 tell the cashier person
 pay 
+    1a credit
+    2a cash
+    3a let cashier person know
 wait 
 pizza ready
